@@ -1,2 +1,2 @@
-# fantastic-pancake
+# OpenCV snippets
 OpenCV snippets
